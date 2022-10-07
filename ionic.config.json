@@ -1,8 +1,7 @@
 {
-  "name": "ExpenseTracker",
+  "name": "Expensetracker",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular",
-  "id": "fd973d15"
+  "type": "angular"
 }
